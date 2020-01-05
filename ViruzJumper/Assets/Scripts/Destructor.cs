@@ -2,17 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Destructor : MonoBehaviour
-{
+public class Destructor : MonoBehaviour{
     // Start is called before the first frame update
-    void Start()
-    {
+    void Start(){
         
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        Destroy(gameObject, 2.0f);
+    void Update(){
+        Destroy(gameObject, 5.0f);
     }
 }

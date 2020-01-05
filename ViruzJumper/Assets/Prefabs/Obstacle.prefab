@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 322533f2457a66847890862b89fec037, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 8
   efecto: {fileID: 1009277942065174, guid: 02aa361cf5f058a448a8ca73948b4423, type: 3}
   bonecracking: {fileID: 6774898919452835076, guid: d5f3829315a28794b8c540021047f60f,
     type: 3}
